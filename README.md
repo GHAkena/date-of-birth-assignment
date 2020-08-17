@@ -1,2 +1,2 @@
 # date-of-birth-assignment
-program to generate date of birth
+A simple program to generate date of birth, in Python
